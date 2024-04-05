@@ -24,9 +24,6 @@ The project utilizes the Fashion MNIST dataset, which is available through the T
 
 The trained GAN model's performance can be evaluated by assessing the generated fashion images visually or using evaluation metrics such as inception score or Frechet Inception Distance (FID).
 
-## Results
-
-Sample generated fashion images and training logs are available in the `images` and `logs` directories, respectively.
 
 ## Model Architecture
 
@@ -41,6 +38,14 @@ Both the generator and discriminator networks are trained simultaneously in an a
 
 - Inspiration for GAN architecture and training strategies from research papers and online tutorials.
 - Fashion MNIST dataset provided by TensorFlow Datasets.
+
+- ## Results
+
+Sample generated fashion images and training logs are available in the `images` and `logs` directories, respectively.
+
+## Demo link
+https://drive.google.com/file/d/1XdXVfnhfMWXMo8tQxnP8o-v93PO6RTCG/view?usp=drivesdk
+
 
 
 
